@@ -1,3 +1,0 @@
-login.addEventListener('click',(e)=>{
-    
-});
